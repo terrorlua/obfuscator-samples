@@ -1,0 +1,3 @@
+-- This file was protected using Luraph Obfuscator v14.3 [https://lura.ph/]
+
+return(function(GA,u,y,f,zA,b,_,e,T,q,l,cA,WA,z,MA,I,N,t,tA,S,wA,V,KA,j,JA,P,D,k,s,d,uA,n,O,sA,rA,c)rA={};zA=(98);while true do if not(zA>0X5_9 and zA<0x6_4)then if zA>0X62 then break;else if not(zA<0X06__2)then else if not(not rA[25752])then zA=(rA[25752]);else(rA)[0x1f17]=(4973850141+((N.B(c[5]<zA and rA[18934]or c[2],rA[2611]))-c[0X5]-c[0x6]
